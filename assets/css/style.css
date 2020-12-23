@@ -688,9 +688,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Hobbies
+# Fun Facts
 --------------------------------------------------------------*/
-.hobbies .icon-box {
+.fun-facts .icon-box {
   text-align: center;
   padding: 70px 20px 80px 20px;
   transition: all ease-in-out 0.3s;
@@ -698,7 +698,7 @@ section {
   box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.05);
 }
 
-.hobbies .icon-box .icon {
+.fun-facts .icon-box .icon {
   margin: 0 auto;
   width: 100px;
   height: 100px;
@@ -709,114 +709,114 @@ section {
   position: relative;
 }
 
-.hobbies .icon-box .icon i {
+.fun-facts .icon-box .icon i {
   font-size: 36px;
   transition: 0.5s;
   position: relative;
 }
 
-.hobbies .icon-box .icon svg {
+.fun-facts .icon-box .icon svg {
   position: absolute;
   top: 0;
   left: 0;
 }
 
-.hobbies .icon-box .icon svg path {
+.fun-facts .icon-box .icon svg path {
   transition: 0.5s;
   fill: #f5f5f5;
 }
 
-.hobbies .icon-box h4 {
+.fun-facts .icon-box h4 {
   font-weight: 600;
   margin: 10px 0 15px 0;
   font-size: 22px;
 }
 
-.hobbies .icon-box h4 a {
+.fun-facts .icon-box h4 a {
   color: #45505b;
   transition: ease-in-out 0.3s;
 }
 
-.hobbies .icon-box p {
+.fun-facts .icon-box p {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
 }
 
-.hobbies .icon-box:hover {
+.fun-facts .icon-box:hover {
   border-color: #fff;
   box-shadow: 0px 0 35px 0 rgba(0, 0, 0, 0.08);
 }
 
-.hobbies .iconbox-blue i {
+.fun-facts .iconbox-blue i {
   color: #47aeff;
 }
 
-.hobbies .iconbox-blue:hover .icon i {
+.fun-facts .iconbox-blue:hover .icon i {
   color: #fff;
 }
 
-.hobbies .iconbox-blue:hover .icon path {
+.fun-facts .iconbox-blue:hover .icon path {
   fill: #47aeff;
 }
 
-.hobbies .iconbox-orange i {
+.fun-facts .iconbox-orange i {
   color: #ffa76e;
 }
 
-.hobbies .iconbox-orange:hover .icon i {
+.fun-facts .iconbox-orange:hover .icon i {
   color: #fff;
 }
 
-.hobbies .iconbox-orange:hover .icon path {
+.fun-facts .iconbox-orange:hover .icon path {
   fill: #ffa76e;
 }
 
-.hobbies .iconbox-pink i {
+.fun-facts .iconbox-pink i {
   color: #e80368;
 }
 
-.hobbies .iconbox-pink:hover .icon i {
+.fun-facts .iconbox-pink:hover .icon i {
   color: #fff;
 }
 
-.hobbies .iconbox-pink:hover .icon path {
+.fun-facts .iconbox-pink:hover .icon path {
   fill: #e80368;
 }
 
-.hobbies .iconbox-yellow i {
+.fun-facts .iconbox-yellow i {
   color: #ffbb2c;
 }
 
-.hobbies .iconbox-yellow:hover .icon i {
+.fun-facts .iconbox-yellow:hover .icon i {
   color: #fff;
 }
 
-.hobbies .iconbox-yellow:hover .icon path {
+.fun-facts .iconbox-yellow:hover .icon path {
   fill: #ffbb2c;
 }
 
-.hobbies .iconbox-red i {
+.fun-facts .iconbox-red i {
   color: #ff5828;
 }
 
-.hobbies .iconbox-red:hover .icon i {
+.fun-facts .iconbox-red:hover .icon i {
   color: #fff;
 }
 
-.hobbies .iconbox-red:hover .icon path {
+.fun-facts .iconbox-red:hover .icon path {
   fill: #ff5828;
 }
 
-.hobbies .iconbox-teal i {
+.fun-facts .iconbox-teal i {
   color: #11dbcf;
 }
 
-.hobbies .iconbox-teal:hover .icon i {
+.fun-facts .iconbox-teal:hover .icon i {
   color: #fff;
 }
 
-.hobbies .iconbox-teal:hover .icon path {
+.fun-facts .iconbox-teal:hover .icon path {
   fill: #11dbcf;
 }
 
